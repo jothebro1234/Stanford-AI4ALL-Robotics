@@ -46,7 +46,7 @@ Stanford-AI4ALL-Robotics/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/<your-username>/Stanford-AI4ALL-Robotics.git
+   git clone https://github.com/hvcho/Stanford-AI4ALL-Robotics.git
    cd Stanford-AI4ALL-Robotics
    ```
 
