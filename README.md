@@ -71,14 +71,12 @@ Stanford-AI4ALL-Robotics/
 
 ## 👥 Mentors
 
-- Hanvit Cho (hvcho74@stanford.edu)
-- Journey Washingtonhigh (journey@stanford.edu)
 - Mansur Maturidi Arief (ariefm@stanford.edu)
 - Nicholas Broadbent (ndbroadb@stanford.edu)
+- Hanvit Cho (hvcho74@stanford.edu)
+- Journey Washingtonhigh (journey@stanford.edu)
 
-## 💡 Mentor Training Lead
-
-Tasha Kim (tashakim@stanford.edu) – Supported spring mentor training as the Robotics team lead
+*Note: Tasha Kim (tashakim@stanford.edu) supported spring mentor training as the Robotics team lead.*
 
 ## 📚 Reference Links
 
