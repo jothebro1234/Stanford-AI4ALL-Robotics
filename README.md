@@ -73,10 +73,11 @@ Stanford-AI4ALL-Robotics/
 
 - Mansur Maturidi Arief (ariefm@stanford.edu)
 - Nicholas Broadbent (ndbroadb@stanford.edu)
-- Hanvit Cho (hvcho74@stanford.edu)
+- Karthik Dharmarajan (karthikd@stanford.edu)
 - Journey Washingtonhigh (journey@stanford.edu)
 
 *Note: Tasha Kim (tashakim@stanford.edu) supported spring mentor training as the Robotics team lead.*
+*Hanvit Cho (hvcho74@stanford.edu) supported for preparing the materials.*
 
 ## 📚 Reference Links
 
